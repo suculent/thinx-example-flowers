@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-transformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt-transformer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mdns": "^2.3.3",
+    "mqtt": "^2.0.1",
+    "slack-node": "^0.1.8"
+  }
+}
