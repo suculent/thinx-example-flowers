@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mdns": "^2.3.3",
-    "mqtt": "^2.0.1",
+    "mqtt": "^3.0.0",
     "slack-node": "^0.1.8"
   }
 }

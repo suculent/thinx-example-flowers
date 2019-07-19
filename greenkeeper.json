@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "mqtt-transformer/package.json"
+      ]
+    }
+  }
+}

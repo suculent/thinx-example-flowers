@@ -1,5 +1,7 @@
 # thinx-example-flowers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/suculent/thinx-example-flowers.svg)](https://greenkeeper.io/)
+
 Example of using THiNXLib for Arduino with WiFi/ESP8266 to monitor flower humidity for visualising e.g. with InfluxDB and Grafana.
 
 ##  Requirements:
